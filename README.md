@@ -43,10 +43,15 @@ The system caters to three main types of users:
 The project requires a database to store relevant information related to users, courses, enrollments, assignments, grades, and discussions. The design includes the following entities and their relationships:
 ## Technologies Used
 Java
+
 Spring Boot
+
 Hibernate
+
 MySQL
-![ER Diagram](/path/to/your/er/diagram.png "ER Diagram")
+## ER-Diagram
+![erDigram](https://github.com/gzbsingh/plum-leg-9420/assets/39863817/91cc4932-af15-4493-8d0e-4cf97ab44159)
+
 
 ## Installation
 Provide instructions on how to install and set up the Online Learning Management System. Include any dependencies, environment setup, and database configuration that may be required.
