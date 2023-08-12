@@ -41,7 +41,11 @@ The system caters to three main types of users:
 
 ## Database Design
 The project requires a database to store relevant information related to users, courses, enrollments, assignments, grades, and discussions. The design includes the following entities and their relationships:
-
+## Technologies Used
+Java
+Spring Boot
+Hibernate
+MySQL
 ![ER Diagram](/path/to/your/er/diagram.png "ER Diagram")
 
 ## Installation
