@@ -55,7 +55,7 @@ MySQL
 
 ## Installation
 Provide instructions on how to install and set up the Online Learning Management System. Include any dependencies, environment setup, and database configuration that may be required.
-
+import or clone this github link https://github.com/gzbsingh/plum-leg-9420.git into your ide(Eclicpse,Sts).now do database configuration according your server
 ## Usage
 Explain how to use the Online Learning Management System, including how users can access the system, create accounts, and perform their respective tasks. Provide clear instructions and examples for each user role.
 
