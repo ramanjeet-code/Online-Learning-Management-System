@@ -1,7 +1,7 @@
 # Online Learning Management System
 
 The Online Learning Management System is a comprehensive software solution designed to support remote education and training. It provides educators with tools for creating and delivering online courses, while offering students a user-friendly interface for accessing course materials, participating in assignments, and tracking their progress.
-
+## Live Link Video (https://drive.google.com/file/d/1-5Nft_mEpOTedyXsW47KqD8NMG7SDzA_/view)
 ## Table of Contents
 - [Domain Description](#domain-description)
 - [Types of Users](#types-of-users)
@@ -55,7 +55,7 @@ MySQL
 
 ## Installation
 Provide instructions on how to install and set up the Online Learning Management System. Include any dependencies, environment setup, and database configuration that may be required.
-import or clone this github link https://github.com/gzbsingh/plum-leg-9420.git into your ide(Eclicpse,Sts).now do database configuration according your server
+import or clone this github link https://github.com/ramanjeet-cod/Online-Learning-Management-System.git into your ide(Eclicpse,Sts).now do database configuration according your server
 ## Usage
 Explain how to use the Online Learning Management System, including how users can access the system, create accounts, and perform their respective tasks. Provide clear instructions and examples for each user role.
 
